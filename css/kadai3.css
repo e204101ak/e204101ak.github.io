@@ -1,0 +1,26 @@
+h1{
+    color:antiquewhite;
+    text-align: center;
+    background-color:aquamarine;
+    
+}
+
+h2{
+    color:darkturquoise;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+h3{
+    color: darkcyan;
+}
+
+p{
+    color: firebrick;
+}
+
+body{
+    background-image: url(../images/haikei2.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
