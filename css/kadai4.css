@@ -1,0 +1,40 @@
+body{
+    background-image: url(../images/haikei3.png);
+}
+
+h1.title{
+    text-align: center;
+    background-color: aquamarine;
+    color:tomato;
+}
+
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    color:cadetblue;
+}
+
+h2.game1{
+    text-align: center;
+    background-color: darksalmon;
+    color:black;
+}
+
+h2{
+    text-align: center;
+    background-color: red;
+    color:white;
+}
+
+p.bluecolor{
+    color:lightcyan;
+}
+
+p{
+    color:lightcoral;
+}
+
+h1#aaaaa{
+    font-family: impact;
+    font-size: 60px;
+}
